@@ -1,6 +1,7 @@
 # <p align="center">Hospital Mortality Analysis  — Python & Power BI</p>
 
-# <p align="center"> ![pic](https://media.istockphoto.com/id/1194838627/vector/patient-in-hospital.jpg?s=612x612&w=0&k=20&c=LqhY8qXr1IgGA0PjGLwqEyVJL-MBTFBU5rf3Dcg4DWo=) </p>
+# <p align="center"><img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/22958ce1-9ea9-438b-81da-616db7544853" />
+</p>
 
 #### **Tools Used**: Excel, Python, Power Bi
 
