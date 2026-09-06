@@ -9,7 +9,7 @@
 
 [Python Analysis (Code)](https://github.com/munigirishbabu2004/Hospital-Mortality-Analysis-Python-Power-BI/blob/main/Project.ipynb)
 
-[Hospital Mortality Dashboard on Power bi]()
+[Hospital Mortality Dashboard on Power bi](https://github.com/munigirishbabu2004/Hospital-Mortality-Analysis-Python-Power-BI/blob/main/dsahboard.pbix)
 
 - **Business Problem:** Healthcare professionals are trying to identify the main causes of in-hospital mortality for admitted patients. By having a clear understanding of the causes early on, healthcare professionals will be in a better position to develop targeted interventions, and implement evidence-based protocols to address the factors that contribute to in-hospital patient deaths. 
 
